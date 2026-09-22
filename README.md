@@ -38,12 +38,10 @@ src/
 ## 启动项目
 
 npm run dev
-Show more lines
 
 ## 打包项目
 
 npm run build
-Show more lines
 
 ## 学习收获
 
